@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smth abot me</title>
+</head>
+<body>
+    <img src="https://sun1-23.userapi.com/s/v1/if1/38MpEho-zANlDdV1PnvyilYhygLw293Q3HOkSqKNpQqZ4A8k3stgC04yIMm6-wpkT0x_oY08.jpg?size=200x0&quality=96&crop=123,0,480,480&ava=1" alt="на фото повинен бути я">
+    <span>Моя фотографія</span>
+    <h1>Мене звати Артем</h1>
+    <p>Я з міста <b>Києва</b></p>
+    <p>Моє хобі це грати на гітарі та відео ігри. Мої успіхи з гітарою: <a href="#">відео</a> Я міг би ще щось сказати,<i>але не хочу</i>:) </p>
+    <h2>Мої соціальні мережі</h2>
+    <span><a href="https://www.instagram.com/_trembovetskyi_/"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="картинка інстаграм"></a><a href="https://www.facebook.com/profile.php?id=100011685827025"><img src="#" alt="Тут мала бути іконка FACEBOOK, але щось пішло не так"></a></span>
+    <h2>Чи вмію я застосовувати список у розмітці</h2>
+    <p>Тут я покажу як вмію використовувати маркерований список, а також розповім про свої хобі.</p>
+    <ul>
+        <li>Гітара</li>
+        <li>Комп'ютерні ігри</li>
+        <li>Програмування</li>
+        <li>Проводити час із друзями</li>
+    </ul>
+    <p>А тут я покажу як працювати з нумерованим списком, а також мої улюблені предмети у школі</p>
+    <ol>
+        <li>Хімія</li>
+        <li>Історія</li>
+        <li>Математика</li>
+        <li>Фізкультура</li>
+    </ol>
+    <nav>
+        <ul>
+            <li>
+                <a href="#">Главная</a>
+            </li>
+            <li>
+                <a href="#">Новости</a>
+            </li>
+            <li>
+                <a href="#">Контакты</a>
+            </li>
+        </ul>
+    </nav>
+</body>
+</html>
